@@ -49,7 +49,7 @@ public class QuizActivity extends ActionBarActivity {
 
         mQuestionTextView = (TextView) findViewById(R.id.question_text_view);
 
-        //* КНОПКИ С РЕАЛИЗАЦИЕЙ LISTENER *//
+        //* КНОПКИ С РЕАЛИЗАЦИЕЙ LISTENER *//1
 
         mTrueButton = (Button) findViewById(R.id.true_button);
         mTrueButton.setOnClickListener(new View.OnClickListener() {
