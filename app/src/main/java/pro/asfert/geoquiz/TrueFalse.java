@@ -10,14 +10,6 @@ public class TrueFalse {
         this.mTrueQuestion = mTrueQuestion;
     }
 
-    public boolean ismTrueQuestion() {
-        return mTrueQuestion;
-    }
-
-    public void setmTrueQuestion(boolean mTrueQuestion) {
-        this.mTrueQuestion = mTrueQuestion;
-    }
-
     public int getQuestion() {
         return mQuestion;
     }
